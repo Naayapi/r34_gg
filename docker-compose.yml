@@ -4,6 +4,9 @@ services:
   backend:
     build:
       context: ./backend
+    environment:
+      - RULE34_API_KEY=${RULE34_API_KEY}
+      - RULE34_USER_ID=${RULE34_USER_ID}
     ports:
       - "3000:3000"
     restart: always
