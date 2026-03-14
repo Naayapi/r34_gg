@@ -1,4 +1,4 @@
-# R34.GG Randomizer
+# R34.GG Randomizer +18
 
 A web application that randomly selects a character from popular games (League of Legends, Valorant, Overwatch) and fetches their Rule34 artwork based on user-defined filters.
 
