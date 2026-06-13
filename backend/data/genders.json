@@ -1,92 +1,1012 @@
 {
-  "ahri": "female",
-  "akali": "female",
-  "yasuo": "male",
-  "jinx": "female",
-  "jett": "female",
-  "sage": "female",
-  "reyna": "female",
-  "viper": "female",
-  "killjoy": "female",
-  "raze": "female",
-  "fade": "female",
-  "neon": "female",
-  "astra": "female",
-  "skye": "female",
-  "sova": "male",
-  "brimstone": "male",
-  "phoenix": "male",
-  "omen": "male",
-  "breach": "male",
-  "cypher": "male",
-  "yoru": "male",
-  "kay/o": "male",
-  "chamber": "male",
-  "harbor": "male",
-  "gekko": "male",
-  "iso": "male",
-  "deadlock": "female",
-  "clove": "non-binary",
-  "tracer": "female",
-  "d.va": "female",
-  "mercy": "female",
-  "widowmaker": "female",
-  "mei": "female",
-  "pharah": "female",
-  "sombra": "female",
-  "zarya": "female",
-  "ana": "female",
-  "brigitte": "female",
-  "moira": "female",
-  "ashe": "female",
-  "echo": "female",
-  "sojourn": "female",
-  "kiriko": "female",
-  "junker queen": "female",
-  "illari": "female",
-  "venture": "non-binary",
-  "genji": "male",
-  "hanzo": "male",
-  "cassidy": "male",
-  "reaper": "male",
-  "soldier: 76": "male",
-  "doomfist": "male",
-  "junkrat": "male",
-  "ramattra": "male",
-  "winston": "male",
-  "reinhardt": "male",
-  "roadhog": "male",
-  "sigma": "male",
-  "lucio": "male",
-  "zenyatta": "male",
-  "baptiste": "male",
-  "lifeweaver": "male",
-  "mauga": "male",
-  "ezreal": "male",
-  "lux": "female",
-  "miss fortune": "female",
-  "caitlyn": "female",
-  "morgana": "female",
-  "sivir": "female",
-  "sona": "female",
-  "soraka": "female",
-  "janna": "female",
-  "katarina": "female",
-  "leblanc": "female",
-  "syndra": "female",
-  "irelia": "female",
-  "riven": "female",
-  "fiora": "female",
-  "vi": "female",
-  "sejuani": "female",
-  "lillia": "female",
-  "zoe": "female",
-  "neeko": "female",
-  "qiyana": "female",
-  "gwen": "female",
-  "vex": "female",
-  "zeri": "female",
-  "bel'veth": "female",
-  "nilah": "female",
-  "briar": "female"
+  "Valorant": {
+    "Astra": {
+      "gender": "female",
+      "r34_tag": "astra_(valorant)"
+    },
+    "Breach": {
+      "gender": "male",
+      "r34_tag": "breach_(valorant)"
+    },
+    "Brimstone": {
+      "gender": "male",
+      "r34_tag": "brimstone_(valorant)"
+    },
+    "Chamber": {
+      "gender": "male",
+      "r34_tag": "chamber_(valorant)"
+    },
+    "Clove": {
+      "gender": "non-binary",
+      "r34_tag": "clove_(valorant)"
+    },
+    "Cypher": {
+      "gender": "male",
+      "r34_tag": "cypher_(valorant)"
+    },
+    "Deadlock": {
+      "gender": "female",
+      "r34_tag": "deadlock_(valorant)"
+    },
+    "Fade": {
+      "gender": "female",
+      "r34_tag": "fade_(valorant)"
+    },
+    "Gekko": {
+      "gender": "male",
+      "r34_tag": "gekko_(valorant)"
+    },
+    "Harbor": {
+      "gender": "male",
+      "r34_tag": "harbor_(valorant)"
+    },
+    "Iso": {
+      "gender": "male",
+      "r34_tag": "iso_(valorant)"
+    },
+    "Jett": {
+      "gender": "female",
+      "r34_tag": "jett_(valorant)"
+    },
+    "KAY/O": {
+      "gender": "male",
+      "r34_tag": "kay/o_(valorant)"
+    },
+    "Killjoy": {
+      "gender": "female",
+      "r34_tag": "killjoy_(valorant)"
+    },
+    "Miks": {
+      "gender": "male",
+      "r34_tag": "miks_(valorant)"
+    },
+    "Neon": {
+      "gender": "female",
+      "r34_tag": "neon_(valorant)"
+    },
+    "Omen": {
+      "gender": "male",
+      "r34_tag": "omen_(valorant)"
+    },
+    "Phoenix": {
+      "gender": "male",
+      "r34_tag": "phoenix_(valorant)"
+    },
+    "Raze": {
+      "gender": "female",
+      "r34_tag": "raze_(valorant)"
+    },
+    "Reyna": {
+      "gender": "female",
+      "r34_tag": "reyna_(valorant)"
+    },
+    "Sage": {
+      "gender": "female",
+      "r34_tag": "sage_(valorant)"
+    },
+    "Skye": {
+      "gender": "female",
+      "r34_tag": "skye_(valorant)"
+    },
+    "Sova": {
+      "gender": "male",
+      "r34_tag": "sova_(valorant)"
+    },
+    "Tejo": {
+      "gender": "male",
+      "r34_tag": "tejo_(valorant)"
+    },
+    "Vato": {
+      "gender": "male",
+      "r34_tag": "vato_(valorant)"
+    },
+    "Viper": {
+      "gender": "female",
+      "r34_tag": "viper_(valorant)"
+    },
+    "Vyse": {
+      "gender": "female",
+      "r34_tag": "vyse_(valorant)"
+    },
+    "Waylay": {
+      "gender": "female",
+      "r34_tag": "waylay_(valorant)"
+    },
+    "Yoru": {
+      "gender": "male",
+      "r34_tag": "yoru_(valorant)"
+    }
+  },
+  "Overwatch": {
+    "Ana": {
+      "gender": "female",
+      "r34_tag": "ana_amari"
+    },
+    "Anran": {
+      "gender": "female",
+      "r34_tag": "anran"
+    },
+    "Ashe": {
+      "gender": "female",
+      "r34_tag": "ashe_(overwatch)"
+    },
+    "Baptiste": {
+      "gender": "male",
+      "r34_tag": "baptiste"
+    },
+    "Bastion": {
+      "gender": "genderless",
+      "r34_tag": "bastion_(overwatch)"
+    },
+    "Brigitte": {
+      "gender": "female",
+      "r34_tag": "brigitte_lindholm"
+    },
+    "Cassidy": {
+      "gender": "male",
+      "r34_tag": "cole_cassidy"
+    },
+    "D.Va": {
+      "gender": "female",
+      "r34_tag": "d.va"
+    },
+    "Domina": {
+      "gender": "female",
+      "r34_tag": "domina"
+    },
+    "Doomfist": {
+      "gender": "male",
+      "r34_tag": "doomfist"
+    },
+    "Echo": {
+      "gender": "female",
+      "r34_tag": "echo_(overwatch)"
+    },
+    "Emre": {
+      "gender": "male",
+      "r34_tag": "emre_sarioglu"
+    },
+    "Freja": {
+      "gender": "female",
+      "r34_tag": "freja_(overwatch)"
+    },
+    "Genji": {
+      "gender": "male",
+      "r34_tag": "genji"
+    },
+    "Hanzo": {
+      "gender": "male",
+      "r34_tag": "hanzo"
+    },
+    "Hazard": {
+      "gender": "male",
+      "r34_tag": "hazard_(overwatch)"
+    },
+    "Illari": {
+      "gender": "female",
+      "r34_tag": "illari_(overwatch)"
+    },
+    "Jetpack_Cat": {
+      "gender": "female",
+      "r34_tag": "fika_(overwatch)"
+    },
+    "Junker Queen": {
+      "gender": "female",
+      "r34_tag": "junker_queen"
+    },
+    "Junkrat": {
+      "gender": "male",
+      "r34_tag": "junkrat"
+    },
+    "Juno": {
+      "gender": "female",
+      "r34_tag": "juno_(overwatch)"
+    },
+    "Kiriko": {
+      "gender": "female",
+      "r34_tag": "kiriko_(overwatch)"
+    },
+    "Lifeweaver": {
+      "gender": "male",
+      "r34_tag": "lifeweaver"
+    },
+    "Lúcio": {
+      "gender": "male",
+      "r34_tag": "lucio_(overwatch)"
+    },
+    "Mauga": {
+      "gender": "male",
+      "r34_tag": "mauga"
+    },
+    "Mei": {
+      "gender": "female",
+      "r34_tag": "mei_(overwatch)"
+    },
+    "Mercy": {
+      "gender": "female",
+      "r34_tag": "mercy"
+    },
+    "Mizuki": {
+      "gender": "male",
+      "r34_tag": "mizuki_(overwatch)"
+    },
+    "Moira": {
+      "gender": "female",
+      "r34_tag": "moira"
+    },
+    "Orisa": {
+      "gender": "female",
+      "r34_tag": "orisa"
+    },
+    "Pharah": {
+      "gender": "female",
+      "r34_tag": "pharah"
+    },
+    "Ramattra": {
+      "gender": "male",
+      "r34_tag": "ramattra"
+    },
+    "Reaper": {
+      "gender": "male",
+      "r34_tag": "reaper"
+    },
+    "Reinhardt": {
+      "gender": "male",
+      "r34_tag": "reinhardt"
+    },
+    "Roadhog": {
+      "gender": "male",
+      "r34_tag": "roadhog"
+    },
+    "Sierra": {
+      "gender": "female",
+      "r34_tag": "sierra_(overwatch)"
+    },
+    "Sigma": {
+      "gender": "male",
+      "r34_tag": "sigma_(overwatch)"
+    },
+    "Sojourn": {
+      "gender": "female",
+      "r34_tag": "sojourn_(overwatch)"
+    },
+    "Soldier: 76": {
+      "gender": "male",
+      "r34_tag": "soldier:_76"
+    },
+    "Sombra": {
+      "gender": "female",
+      "r34_tag": "sombra"
+    },
+    "Symmetra": {
+      "gender": "female",
+      "r34_tag": "symmetra"
+    },
+    "Torbjörn": {
+      "gender": "male",
+      "r34_tag": "torbjorn"
+    },
+    "Tracer": {
+      "gender": "female",
+      "r34_tag": "tracer"
+    },
+    "Vendetta": {
+      "gender": "female",
+      "r34_tag": "vendetta"
+    },
+    "Venture": {
+      "gender": "non-binary",
+      "r34_tag": "venture"
+    },
+    "Widowmaker": {
+      "gender": "female",
+      "r34_tag": "widowmaker"
+    },
+    "Winston": {
+      "gender": "male",
+      "r34_tag": "winston_(overwatch)"
+    },
+    "Wrecking Ball": {
+      "gender": "male",
+      "r34_tag": "wrecking_ball_(overwatch)"
+    },
+    "Wuyang": {
+      "gender": "male",
+      "r34_tag": "wuyang"
+    },
+    "Zarya": {
+      "gender": "female",
+      "r34_tag": "zarya"
+    },
+    "Zenyatta": {
+      "gender": "male",
+      "r34_tag": "zenyatta"
+    }
+  },
+  "League of Legends": {
+    "Aatrox": {
+      "gender": "male",
+      "r34_tag": "aatrox"
+    },
+    "Ahri": {
+      "gender": "female",
+      "r34_tag": "ahri"
+    },
+    "Akali": {
+      "gender": "female",
+      "r34_tag": "akali"
+    },
+    "Akshan": {
+      "gender": "male",
+      "r34_tag": "akshan"
+    },
+    "Alistar": {
+      "gender": "male",
+      "r34_tag": "alistar"
+    },
+    "Ambessa": {
+      "gender": "female",
+      "r34_tag": "ambessa_medarda"
+    },
+    "Amumu": {
+      "gender": "male",
+      "r34_tag": "amumu"
+    },
+    "Anivia": {
+      "gender": "female",
+      "r34_tag": "anivia"
+    },
+    "Annie": {
+      "gender": "female",
+      "r34_tag": "annie_hastur"
+    },
+    "Aphelios": {
+      "gender": "male",
+      "r34_tag": "aphelios"
+    },
+    "Ashe": {
+      "gender": "female",
+      "r34_tag": "ashe_(league_of_legends)"
+    },
+    "Aurelion Sol": {
+      "gender": "male",
+      "r34_tag": "aurelion_sol"
+    },
+    "Aurora": {
+      "gender": "female",
+      "r34_tag": "aurora_(league_of_legends)"
+    },
+    "Azir": {
+      "gender": "male",
+      "r34_tag": "azir"
+    },
+    "Bard": {
+      "gender": "male",
+      "r34_tag": "bard_(league_of_legends)"
+    },
+    "Bel'Veth": {
+      "gender": "female",
+      "r34_tag": "bel&#039;veth"
+    },
+    "Blitzcrank": {
+      "gender": "genderless",
+      "r34_tag": "blitzcrank"
+    },
+    "Brand": {
+      "gender": "male",
+      "r34_tag": "brand_(league_of_legends) "
+    },
+    "Braum": {
+      "gender": "male",
+      "r34_tag": "braum"
+    },
+    "Briar": {
+      "gender": "female",
+      "r34_tag": "briar_(league_of_legends)"
+    },
+    "Caitlyn": {
+      "gender": "female",
+      "r34_tag": "caitlyn_kiramman"
+    },
+    "Camille": {
+      "gender": "female",
+      "r34_tag": "camille_ferros"
+    },
+    "Cassiopeia": {
+      "gender": "female",
+      "r34_tag": "cassiopeia_du_couteau"
+    },
+    "Cho'Gath": {
+      "gender": "male",
+      "r34_tag": "cho&#039;gath"
+    },
+    "Corki": {
+      "gender": "male",
+      "r34_tag": "corki"
+    },
+    "Darius": {
+      "gender": "male",
+      "r34_tag": "darius_(league_of_legends)"
+    },
+    "Diana": {
+      "gender": "female",
+      "r34_tag": "diana_(league_of_legends)"
+    },
+    "Dr. Mundo": {
+      "gender": "male",
+      "r34_tag": "mundo_(league_of_legends)"
+    },
+    "Draven": {
+      "gender": "male",
+      "r34_tag": "draven"
+    },
+    "Ekko": {
+      "gender": "male",
+      "r34_tag": "ekko"
+    },
+    "Elise": {
+      "gender": "female",
+      "r34_tag": "elise_kythera_zaavan"
+    },
+    "Evelynn": {
+      "gender": "female",
+      "r34_tag": "evelynn"
+    },
+    "Ezreal": {
+      "gender": "male",
+      "r34_tag": "ezreal"
+    },
+    "Fiddlesticks": {
+      "gender": "genderless",
+      "r34_tag": "fiddlesticks"
+    },
+    "Fiora": {
+      "gender": "female",
+      "r34_tag": "fiora_laurent"
+    },
+    "Fizz": {
+      "gender": "male",
+      "r34_tag": "fizz_(lol)"
+    },
+    "Galio": {
+      "gender": "male",
+      "r34_tag": "galio"
+    },
+    "Gangplank": {
+      "gender": "male",
+      "r34_tag": "gangplank"
+    },
+    "Garen": {
+      "gender": "male",
+      "r34_tag": "garen_crownguard"
+    },
+    "Gnar": {
+      "gender": "male",
+      "r34_tag": "gnar"
+    },
+    "Gragas": {
+      "gender": "male",
+      "r34_tag": "gragas"
+    },
+    "Graves": {
+      "gender": "male",
+      "r34_tag": "malcolm_graves"
+    },
+    "Gwen": {
+      "gender": "female",
+      "r34_tag": "gwen_(league_of_legends)"
+    },
+    "Hecarim": {
+      "gender": "male",
+      "r34_tag": "hecarim"
+    },
+    "Heimerdinger": {
+      "gender": "male",
+      "r34_tag": "heimerdinger"
+    },
+    "Hwei": {
+      "gender": "male",
+      "r34_tag": "hwei"
+    },
+    "Illaoi": {
+      "gender": "female",
+      "r34_tag": "illaoi"
+    },
+    "Irelia": {
+      "gender": "female",
+      "r34_tag": "irelia_xan"
+    },
+    "Ivern": {
+      "gender": "male",
+      "r34_tag": "ivern_bramblefoot"
+    },
+    "Janna": {
+      "gender": "female",
+      "r34_tag": "janna_windforce"
+    },
+    "Jarvan IV": {
+      "gender": "male",
+      "r34_tag": "jarvan_lightshield_iv"
+    },
+    "Jax": {
+      "gender": "male",
+      "r34_tag": "saijax_cail-rynx_kohari_icath&#039;un"
+    },
+    "Jayce": {
+      "gender": "male",
+      "r34_tag": "jayce_talis"
+    },
+    "Jhin": {
+      "gender": "male",
+      "r34_tag": "jhin"
+    },
+    "Jinx": {
+      "gender": "female",
+      "r34_tag": "jinx_(league_of_legends)"
+    },
+    "K'Sante": {
+      "gender": "male",
+      "r34_tag": "k&#039;sante"
+    },
+    "Kai'Sa": {
+      "gender": "female",
+      "r34_tag": "kai&#039;sa"
+    },
+    "Kalista": {
+      "gender": "female",
+      "r34_tag": "kalista"
+    },
+    "Karma": {
+      "gender": "female",
+      "r34_tag": "karma_(league_of_legends)"
+    },
+    "Karthus": {
+      "gender": "male",
+      "r34_tag": "karthus"
+    },
+    "Kassadin": {
+      "gender": "male",
+      "r34_tag": "kassadin"
+    },
+    "Katarina": {
+      "gender": "female",
+      "r34_tag": "katarina_du_couteau"
+    },
+    "Kayle": {
+      "gender": "female",
+      "r34_tag": "kayle"
+    },
+    "Kayn": {
+      "gender": "male",
+      "r34_tag": "kayn"
+    },
+    "Kennen": {
+      "gender": "male",
+      "r34_tag": "kennen"
+    },
+    "Kha'Zix": {
+      "gender": "male",
+      "r34_tag": "kha&#039;zix"
+    },
+    "Kindred": {
+      "gender": "non-binary",
+      "r34_tag": "kindred"
+    },
+    "Kled": {
+      "gender": "male",
+      "r34_tag": "kled"
+    },
+    "Kog'Maw": {
+      "gender": "male",
+      "r34_tag": "kog&#039;maw"
+    },
+    "LeBlanc": {
+      "gender": "female",
+      "r34_tag": "leblanc"
+    },
+    "Lee Sin": {
+      "gender": "male",
+      "r34_tag": "lee_sin"
+    },
+    "Leona": {
+      "gender": "female",
+      "r34_tag": "leona_(league_of_legends)"
+    },
+    "Lillia": {
+      "gender": "female",
+      "r34_tag": "lillia_(league_of_legends)"
+    },
+    "Lissandra": {
+      "gender": "female",
+      "r34_tag": "lissandra"
+    },
+    "Lucian": {
+      "gender": "male",
+      "r34_tag": "lucian_(league_of_legends)"
+    },
+    "Lulu": {
+      "gender": "female",
+      "r34_tag": "lulu_the_fae_sorceress"
+    },
+    "Lux": {
+      "gender": "female",
+      "r34_tag": "lux_crownguard"
+    },
+    "Malphite": {
+      "gender": "male",
+      "r34_tag": "malphite"
+    },
+    "Malzahar": {
+      "gender": "male",
+      "r34_tag": "malzahar"
+    },
+    "Maokai": {
+      "gender": "male",
+      "r34_tag": "maokai"
+    },
+    "Master Yi": {
+      "gender": "male",
+      "r34_tag": "master_yi"
+    },
+    "Mel": {
+      "gender": "female",
+      "r34_tag": "mel_medarda"
+    },
+    "Milio": {
+      "gender": "male",
+      "r34_tag": "milio_(league_of_legends)"
+    },
+    "Miss Fortune": {
+      "gender": "female",
+      "r34_tag": "miss_fortune"
+    },
+    "Mordekaiser": {
+      "gender": "male",
+      "r34_tag": "mordekaiser"
+    },
+    "Morgana": {
+      "gender": "female",
+      "r34_tag": "morgana_(league_of_legends)"
+    },
+    "Naafiri": {
+      "gender": "female",
+      "r34_tag": "naafiri"
+    },
+    "Nami": {
+      "gender": "female",
+      "r34_tag": "nami_(league_of_legends)"
+    },
+    "Nasus": {
+      "gender": "male",
+      "r34_tag": "nasus"
+    },
+    "Nautilus": {
+      "gender": "male",
+      "r34_tag": "nautilus_(lol)"
+    },
+    "Neeko": {
+      "gender": "female",
+      "r34_tag": "neeko"
+    },
+    "Nidalee": {
+      "gender": "female",
+      "r34_tag": "nidalee"
+    },
+    "Nilah": {
+      "gender": "female",
+      "r34_tag": "nilah"
+    },
+    "Nocturne": {
+      "gender": "male",
+      "r34_tag": "nocturne_(league_of_legends)"
+    },
+    "Nunu & Willump": {
+      "gender": "male",
+      "r34_tag": "nunu"
+    },
+    "Olaf": {
+      "gender": "male",
+      "r34_tag": "olaf_(league_of_legends)"
+    },
+    "Orianna": {
+      "gender": "female",
+      "r34_tag": "orianna"
+    },
+    "Ornn": {
+      "gender": "male",
+      "r34_tag": "ornn"
+    },
+    "Pantheon": {
+      "gender": "male",
+      "r34_tag": "pantheon"
+    },
+    "Poppy": {
+      "gender": "female",
+      "r34_tag": "poppy"
+    },
+    "Pyke": {
+      "gender": "male",
+      "r34_tag": "pyke"
+    },
+    "Qiyana": {
+      "gender": "female",
+      "r34_tag": "qiyana_yunalai"
+    },
+    "Quinn": {
+      "gender": "female",
+      "r34_tag": "quinn"
+    },
+    "Rakan": {
+      "gender": "male",
+      "r34_tag": "rakan"
+    },
+    "Rammus": {
+      "gender": "male",
+      "r34_tag": "rammus"
+    },
+    "Rek'Sai": {
+      "gender": "female",
+      "r34_tag": "rek'sai"
+    },
+    "Rell": {
+      "gender": "female",
+      "r34_tag": "rell_(league_of_legends)"
+    },
+    "Renata Glasc": {
+      "gender": "female",
+      "r34_tag": "renata_glasc"
+    },
+    "Renekton": {
+      "gender": "male",
+      "r34_tag": "renekton"
+    },
+    "Rengar": {
+      "gender": "male",
+      "r34_tag": "rengar"
+    },
+    "Riven": {
+      "gender": "female",
+      "r34_tag": "riven"
+    },
+    "Rumble": {
+      "gender": "male",
+      "r34_tag": "rumble_(lol)"
+    },
+    "Ryze": {
+      "gender": "male",
+      "r34_tag": "ryze"
+    },
+    "Samira": {
+      "gender": "female",
+      "r34_tag": "samira_(league_of_legends)"
+    },
+    "Sejuani": {
+      "gender": "female",
+      "r34_tag": "sejuani"
+    },
+    "Senna": {
+      "gender": "female",
+      "r34_tag": "senna_(league_of_legends)"
+    },
+    "Seraphine": {
+      "gender": "female",
+      "r34_tag": "seraphine_(league_of_legends)"
+    },
+    "Sett": {
+      "gender": "male",
+      "r34_tag": "sett"
+    },
+    "Shaco": {
+      "gender": "male",
+      "r34_tag": "shaco"
+    },
+    "Shen": {
+      "gender": "male",
+      "r34_tag": "shen"
+    },
+    "Shyvana": {
+      "gender": "female",
+      "r34_tag": "shyvana"
+    },
+    "Singed": {
+      "gender": "male",
+      "r34_tag": "singed"
+    },
+    "Sion": {
+      "gender": "male",
+      "r34_tag": "sion"
+    },
+    "Sivir": {
+      "gender": "female",
+      "r34_tag": "sivir"
+    },
+    "Skarner": {
+      "gender": "male",
+      "r34_tag": "skarner"
+    },
+    "Smolder": {
+      "gender": "male",
+      "r34_tag": "smolder_(league_of_legends)"
+    },
+    "Sona": {
+      "gender": "female",
+      "r34_tag": "sona_buvelle"
+    },
+    "Soraka": {
+      "gender": "female",
+      "r34_tag": "soraka"
+    },
+    "Swain": {
+      "gender": "male",
+      "r34_tag": "jericho_swain"
+    },
+    "Sylas": {
+      "gender": "male",
+      "r34_tag": "sylas"
+    },
+    "Syndra": {
+      "gender": "female",
+      "r34_tag": "syndra"
+    },
+    "Tahm Kench": {
+      "gender": "male",
+      "r34_tag": "tahm_kench"
+    },
+    "Taliyah": {
+      "gender": "female",
+      "r34_tag": "taliyah"
+    },
+    "Talon": {
+      "gender": "male",
+      "r34_tag": "talon_du_couteau"
+    },
+    "Taric": {
+      "gender": "male",
+      "r34_tag": "taric"
+    },
+    "Teemo": {
+      "gender": "male",
+      "r34_tag": "teemo"
+    },
+    "Thresh": {
+      "gender": "male",
+      "r34_tag": "thresh"
+    },
+    "Tristana": {
+      "gender": "female",
+      "r34_tag": "tristana"
+    },
+    "Trundle": {
+      "gender": "male",
+      "r34_tag": "trundle"
+    },
+    "Tryndamere": {
+      "gender": "male",
+      "r34_tag": "tryndamere"
+    },
+    "Twisted Fate": {
+      "gender": "male",
+      "r34_tag": "tobias_fate"
+    },
+    "Twitch": {
+      "gender": "male",
+      "r34_tag": "twitch_(lol)"
+    },
+    "Udyr": {
+      "gender": "male",
+      "r34_tag": "udyr"
+    },
+    "Urgot": {
+      "gender": "male",
+      "r34_tag": "urgot"
+    },
+    "Varus": {
+      "gender": "male",
+      "r34_tag": "varus"
+    },
+    "Vayne": {
+      "gender": "female",
+      "r34_tag": "vayne"
+    },
+    "Veigar": {
+      "gender": "male",
+      "r34_tag": "veigar"
+    },
+    "Vel'Koz": {
+      "gender": "male",
+      "r34_tag": "vel&#039;koz"
+    },
+    "Vex": {
+      "gender": "female",
+      "r34_tag": "vex_(league_of_legends)"
+    },
+    "Vi": {
+      "gender": "female",
+      "r34_tag": "vi"
+    },
+    "Viego": {
+      "gender": "male",
+      "r34_tag": "viego_(league_of_legends)"
+    },
+    "Viktor": {
+      "gender": "male",
+      "r34_tag": "viktor_(league_of_legends)"
+    },
+    "Vladimir": {
+      "gender": "male",
+      "r34_tag": "vladimir_(league_of_legends)"
+    },
+    "Volibear": {
+      "gender": "male",
+      "r34_tag": "volibear"
+    },
+    "Warwick": {
+      "gender": "male",
+      "r34_tag": "warwick"
+    },
+    "Wukong": {
+      "gender": "male",
+      "r34_tag": "wukong"
+    },
+    "Xayah": {
+      "gender": "female",
+      "r34_tag": "xayah"
+    },
+    "Xerath": {
+      "gender": "male",
+      "r34_tag": "xerath"
+    },
+    "Xin Zhao": {
+      "gender": "male",
+      "r34_tag": "xin_zhao"
+    },
+    "Yasuo": {
+      "gender": "male",
+      "r34_tag": "yasuo"
+    },
+    "Yone": {
+      "gender": "male",
+      "r34_tag": "yone"
+    },
+    "Yorick": {
+      "gender": "male",
+      "r34_tag": "yorick"
+    },
+    "Yunara": {
+      "gender": "female",
+      "r34_tag": "yunara_(league_of_legends)"
+    },
+    "Yuumi": {
+      "gender": "female",
+      "r34_tag": "yuumi_(lol)"
+    },
+    "Zac": {
+      "gender": "male",
+      "r34_tag": "zac"
+    },
+    "Zed": {
+      "gender": "male",
+      "r34_tag": "zed"
+    },
+    "Zeri": {
+      "gender": "female",
+      "r34_tag": "zeri_(league_of_legends)"
+    },
+    "Ziggs": {
+      "gender": "male",
+      "r34_tag": "ziggs"
+    },
+    "Zilean": {
+      "gender": "male",
+      "r34_tag": "zilean"
+    },
+    "Zoe": {
+      "gender": "female",
+      "r34_tag": "zoe_(league_of_legends)"
+    },
+    "Zyra": {
+      "gender": "female",
+      "r34_tag": "zyra"
+    }
+  }
 }
